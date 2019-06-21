@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<DMACapability>
+  <Category name="led_out" 
+            enabled="true" 
+            bytes_in_burst="1"
+            bytes_in_burst_is_strict="true" 
+            spoke_width="1" 
+            inc_addr="false" 
+            each_burst_req_request="true">
+    <Location name="`$INSTANCE_NAME`_dma_ptr" enabled="true" direction="destination"/>
+  </Category>
+</DMACapability>
