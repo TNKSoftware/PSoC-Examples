@@ -15,7 +15,7 @@ Program samples for PSoC 3 / PSoC 5LP that Cypress Semiconductor's MCUs. I devel
 	- **[shift_reg](/../../tree/master/shift_reg)**<br>Create a 32bit component with shift operation ([Blog article](https://www.tnksoft.com/blog/?p=7229&lang=en))
 	- **[shift_reg_out](/../../tree/master/shift_reg_out)**<br>32bit shift out inputting on Datapath ([Blog article](https://www.tnksoft.com/blog/?p=7241&lang=en))
 	- **[dma_in](/../../tree/master/dma_in)**<br>Datapath transfering with Double-buffered DMA ([Blog article](https://www.tnksoft.com/blog/?p=7247&lang=en))
-
+	- **[count7](/../../tree/master/count7)**<br>UDP 7bit counter(cy_psoc3_count7) ([Blog article](https://www.tnksoft.com/blog/?p=7257&lang=en))
 
 ## License
 [MIT](https://tldrlegal.com/license/mit-license). You can use and modify those source code freely. But, if those projects helped you, please join [my support program](https://www.tnksoft.com/donate/?lang=en).
